@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/MySQL/db/migrations/20231213225850_create_table_students.up.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/MySQL/db/migrations/20231214022832_create_table_books.up.sql" dialect="MySQL" />
+  </component>
+</project>
